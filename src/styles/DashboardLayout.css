@@ -1,0 +1,36 @@
+.summary-card {
+  border-radius: 12px;
+  color: #fff;
+  text-align: center;
+  padding: 1.2rem 0;
+  font-size: 18px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.filter-box {
+  background: #f8f9fa;
+  padding: 15px;
+  border-radius: 10px;
+  margin-top: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.filter-box h6 {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.filter-box .btn {
+  margin-bottom: 8px;
+  width: 100%;
+  font-size: 14px;
+}
+
+.zone-table thead th {
+  font-size: 14px;
+}
+
+.zone-table tbody td {
+  font-size: 13px;
+  vertical-align: middle;
+}
